@@ -1,4 +1,4 @@
-name: vid_style
+name: test
 channels:
   - soumith
   - anaconda
